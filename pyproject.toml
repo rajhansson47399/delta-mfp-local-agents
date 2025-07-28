@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Delta-MFP: counterfactual-replay failure diagnosis for local tool-use agents (FAGEN @ ICML 2026)"
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
